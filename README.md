@@ -8,16 +8,16 @@ Arquivo 1
 gcc busca_linear.c -o busca_linear.exe
 Aqui estamos compilando, criando o arquivo exe com o nome: busca linear
 ./busca_linear.exe
-Esse é o comando para executar o código, vale ressaltar que as atualizações precisam ser salvas e compiladas novamente.
+Esse é o comando para executar o código.
  
 Arquivo 2
 gcc busca_binaria.c -o busca_binaria.exe
 Aqui estamos compilando, criando o arquivo exe com o nome: busca_binaria
 ./busca_binaria.exe
-Esse é o comando para executar o código, vale ressaltar que as atualizações precisam ser salvas e compiladas novamente.
+Esse é o comando para executar o código.
  
 Arquivo 3
 gcc cpf_busca.c -o cpf_busca.exe
 Aqui estamos compilando, criando o arquivo exe com o nome: cpf_busca
 ./cpf_busca.exe
-Esse é o comando para executar o código, vale ressaltar que as atualizações precisam ser salvas e compiladas novamente.
+Esse é o comando para executar o código.
