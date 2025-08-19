@@ -1,4 +1,4 @@
-Definição e diferença dos dois tipos de busca + observações de quando usa-las:
+# Definição e diferença dos dois tipos de busca + observações de quando usa-las:
 A busca linear é utilizada para a localização de dados desordenados (sem ordem lógica), assim, a busca analisa elemento por elemento.
 A busca binária é utilizada para a localização de dados ordenados (com ordem lógica), assim, a busca "corta" os elementos pela metade.
 Para pequenas coleções de dados a busca linear é eficiente, já para coleções grandes e ordenas a busca binária é a melhor pedida.
@@ -21,3 +21,8 @@ gcc cpf_busca.c -o cpf_busca.exe
 Aqui estamos compilando, criando o arquivo exe com o nome: cpf_busca
 ./cpf_busca.exe
 Esse é o comando para executar o código.
+
+# Integrantes:
+Allan de Souza Cardoso - RM: 561721
+Eduardo Barcelar Rudner - RM: 564925
+Raquel Amaral de Oliveira - RM: 561721
