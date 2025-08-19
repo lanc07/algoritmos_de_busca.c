@@ -23,6 +23,6 @@ Aqui estamos compilando, criando o arquivo exe com o nome: cpf_busca
 Esse é o comando para executar o código.
 
 # Integrantes:
-Allan de Souza Cardoso - RM: 561721
-Eduardo Barcelar Rudner - RM: 564925
-Raquel Amaral de Oliveira - RM: 561721
+- Allan de Souza Cardoso - RM: 561721
+- Eduardo Barcelar Rudner - RM: 564925
+- Raquel Amaral de Oliveira - RM: 561721
